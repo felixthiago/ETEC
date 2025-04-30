@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:/layout_fragment_third.xml.flat",
+        "source": "br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:/layout/fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_onda2.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\onda2.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_luxurious_script.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\luxurious_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_bitter_semibold.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\bitter_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_wave.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_hearts.png.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\hearts.png"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_gorditas.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\gorditas.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_rocknroll_one.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\rocknroll_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_charm.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\charm.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_top_background2.png.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_poppins_thin.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\poppins_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\layout_fragment_third.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_warning.png.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_background_gradient2.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\background_gradient2.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_metal_mania.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\metal_mania.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_btn_arraw1.png.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\btn_arraw1.png"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_monofett.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\monofett.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_charmonman.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\charmonman.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_rock_salt.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\rock_salt.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_top_background1.png.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\top_background1.png"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-debug-33:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\thi\\.gradle\\daemon\\8.11.1\\br.com.fabioclaret.etimpamiifragmentscomkotlin.app-main-35:\\font\\poppins_bold.xml"
+    }
+]

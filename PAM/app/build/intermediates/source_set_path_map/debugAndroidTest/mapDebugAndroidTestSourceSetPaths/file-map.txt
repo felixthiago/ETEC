@@ -1,0 +1,6 @@
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test.app-core-1.6.1-0 C:\Users\thi\.gradle\caches\8.11.1\transforms\16b9a7da08d57cd5442c98af7c13fb4d\transformed\core-1.6.1\res
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test.app-tracing-1.2.0-1 C:\Users\thi\.gradle\caches\8.11.1\transforms\4a19556a143169253923347879976ea7\transformed\tracing-1.2.0\res
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test.app-androidTest-2 C:\Users\thi\AndroidStudioProjects\ETIMFragmentsKotlin\app\build\generated\res\resValues\androidTest\debug
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test.app-mergeDebugAndroidTestResources-3 C:\Users\thi\AndroidStudioProjects\ETIMFragmentsKotlin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test.app-mergeDebugAndroidTestResources-4 C:\Users\thi\AndroidStudioProjects\ETIMFragmentsKotlin\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test.app-debugAndroidTest-5 C:\Users\thi\AndroidStudioProjects\ETIMFragmentsKotlin\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,2 @@
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test:style/WhiteBackgroundTheme = 0x7f010001
+br.com.fabioclaret.etimpamiifragmentscomkotlin.test:style/WhiteBackgroundDialogTheme = 0x7f010000

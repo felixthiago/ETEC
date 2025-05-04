@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Login & Register</title>
+    <link rel="icon" href="www/icons/hambruger.ico">
+    <link rel="stylesheet" href="www/css/login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" charset="utf-8"></script>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script>
+      
+      function getLogin(){
+      const username = document.getElementById('usernick').value;
+      sessionStorage['username'] = username
+      const capitalized = username.charAt(0).toUpperCase() + username.slice(1)
+      window.alert(`Seja bem vindo de novo, ${capitalized}!`)
+    }
+
+    function getRegister(){
+      const username = document.getElementById('userRegister').value;
+      sessionStorage['username'] = username
+      const capitalized = username.charAt(0).toUpperCase() + username.slice(1)
+      window.alert(`Seja bem vindo ao Franças, ${capitalized} aproveite bem!`)
+    }    
+
+  </script>
+  </head>
+  <body>
+      <div class="form">
+        <form class="login-form" action="index.html" method="get">
+          <a href="#" class="brand-logo">
+            <div class="logo logo-small"></div>
+          </a>
+          <input class="user-input" id="usernick" type="text" placeholder="Nome de usuario" required>
+          <input class="user-input" type="password" placeholder="Senha" required>
+          <div class="options-01">
+            <label class="remember-me"><input type="checkbox" name="">Lembrar-se</label>
+            <a href="#">Esqueceu sua senha?</a>
+          </div>
+          <input id = "btn" class="btn" type="submit" onclick="getLogin()">
+          <div class="options-02">
+            <p>Não registrado ainda? <a href="#">Criar uma conta</a></p>
+          </div>
+        </form>
+
+        <form class="signup-form" action="index.html" method="get">
+          <a href="#" class="brand-logo">
+            <div class="logo logo-small"></div>
+          </a>
+          <input class="user-input" id='userRegister' type="text" name="" placeholder="Nome de usuario" required>
+          <input class="user-input" type="email" name="" placeholder="Email" required>
+          <input class="user-input" type="password" name="" placeholder="Senha" required>
+          <input class="btn" type="submit" name="" value="Registre-se" onclick="getRegister()">
+          <div class="options-02">
+            <p>Já registrado? <a href="#">Entrar</a></p>
+          </div>
+        </form>
+      </div>
+
+
+  <script type="text/javascript">
+    $('.options-02 a').click(function(){
+      $('form').animate({
+        height: "toggle", opacity: "toggle"
+      }, "slow");
+    });
+    </script>
+
+  </body>
+</html>

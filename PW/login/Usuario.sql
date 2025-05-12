@@ -1,5 +1,5 @@
-CREATE DATABASE Usuario;
-USE Usuario;
+CREATE DATABASE usuarioetimpwiii;
+USE usuarioetimpwiii;
 CREATE TABLE Usuarios (
     id    INT AUTO_INCREMENT PRIMARY KEY,
     nome  VARCHAR(50)  NOT NULL,

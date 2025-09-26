@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background-color: #faebd7; }
+section { max-width: 800px; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 8px; }
+h1 { color: #333; }
+p { color: #555; line-height: 1.6; }
+span { font-weight: bold; }
+#imagens { display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; }
+.caixa-img { width: 200px; height: 200px; border: 1px solid #ddd; }
+.caixa-img img { width: 100%; height: 100%; object-fit: cover; }
+.btn-voltar { display: inline-block; margin-top: 20px; padding: 10px 15px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; }

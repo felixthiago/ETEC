@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background-color: #f0f2f5; }
+section { max-width: 900px; margin: 20px auto; padding: 20px; }
+h1 { text-align: center; color: #333; }
+.container-produtos { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+.produto-item { width: 200px; border: 1px solid #ddd; border-radius: 5px; text-align: center; background-color: #fff; padding: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+a { text-decoration: none; color: inherit; }
+.img-produto { max-width: 100%; height: 150px; object-fit: cover; }
+.nome-produto { font-weight: bold; margin-top: 10px; }
+.btn-voltar { display: block; text-align: center; margin-top: 30px; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-decoration: none; width: 200px; margin-left: auto; margin-right: auto; }
